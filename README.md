@@ -117,7 +117,7 @@ pytest
 
 ---
 
-## 📈 Complexidade dos Algoritmos
+##  Complexidade dos Algoritmos
 
 | Algoritmo          | Complexidade |
 | ------------------ | ------------ |
@@ -131,14 +131,14 @@ pytest
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 * Python 3
 * Pytest
 
 ---
 
-## 📌 Melhorias Futuras
+##  Melhorias Futuras
 
 * [ ] Refatorar estrutura para módulos
 * [ ] Adicionar mais algoritmos (Merge Sort, Quick Sort)
@@ -147,7 +147,7 @@ pytest
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido como parte da evolução em Estruturas de Dados e Algoritmos.
 
