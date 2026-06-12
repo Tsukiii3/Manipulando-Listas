@@ -1,10 +1,10 @@
-# 📊 Manipulação de Listas em Python
+#  Manipulação de Listas em Python
 
 Este repositório contém implementações de algoritmos fundamentais utilizando listas (arrays) em Python, com foco em lógica de programação, estruturas de dados e análise de complexidade.
 
 ---
 
-## 🚀 Objetivo
+##  Objetivo
 
 Este projeto foi desenvolvido com o objetivo de:
 
@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 Cada arquivo representa um algoritmo ou operação específica:
 
@@ -32,9 +32,9 @@ Cada arquivo representa um algoritmo ou operação específica:
 
 ---
 
-## 🧠 Algoritmos Implementados
+##  Algoritmos Implementados
 
-### 🔍 Busca Linear
+###  Busca Linear
 
 Percorre a lista elemento por elemento até encontrar o valor desejado.
 
@@ -43,7 +43,7 @@ Percorre a lista elemento por elemento até encontrar o valor desejado.
 
 ---
 
-### ⚡ Busca Binária
+###  Busca Binária
 
 Divide o problema pela metade a cada iteração.
 
@@ -53,7 +53,7 @@ Divide o problema pela metade a cada iteração.
 
 ---
 
-### 🔃 Bubble Sort
+### Bubble Sort
 
 Algoritmo simples de ordenação que compara elementos adjacentes.
 
@@ -62,7 +62,7 @@ Algoritmo simples de ordenação que compara elementos adjacentes.
 
 ---
 
-### 🔝 Maior / 🔽 Menor
+###  Maior /  Menor
 
 Percorre a lista para encontrar:
 
@@ -74,7 +74,7 @@ Percorre a lista para encontrar:
 
 ---
 
-### 📊 Média
+###  Média
 
 Calcula a média dos valores da lista.
 
@@ -82,7 +82,7 @@ Calcula a média dos valores da lista.
 
 ---
 
-### ➕ Soma
+###  Soma
 
 Soma todos os elementos da lista.
 
@@ -96,7 +96,7 @@ Inclui:
 
 ---
 
-### ♻️ Remoção de Duplicados
+### Remoção de Duplicados
 
 Remove elementos repetidos mantendo a ordem original.
 
@@ -104,11 +104,11 @@ Remove elementos repetidos mantendo a ordem original.
 
 ---
 
-## 🧪 Testes
+##  Testes
 
 O projeto inclui testes automatizados utilizando `pytest`.
 
-### ▶️ Como rodar:
+###  Como rodar:
 
 ```bash
 pip install pytest
